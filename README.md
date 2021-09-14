@@ -14,7 +14,7 @@ Therefore, you need to be careful when using it.
 How to compile?
 
 If you use gcc on Windows,
-'''
+```
 g++ -o client.exe chat_client.cpp -lws2_32
-'''
+```
 
